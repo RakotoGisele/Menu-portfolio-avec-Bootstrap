@@ -1,0 +1,8 @@
+body {
+    background-image: url(../menu\ portfolio\ v2/763111-cherry-blossom-backgrounds-1920x1080-laptop.jpg);
+}
+.navbar {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient( #792023, #813546);
+    text-shadow: indianred 0.2em 0.2em 0.4em;
+}
